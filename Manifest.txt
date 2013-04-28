@@ -90,7 +90,7 @@ lib/knife-solo/resources/patch_cookbooks/chef-solo-search/libraries/vendor/chef/
 lib/knife-solo/resources/patch_cookbooks/chef-solo-search/libraries/vendor/chef/solr_query/query_transform.rb
 lib/knife-solo/resources/patch_cookbooks/chef-solo-search/metadata.rb
 lib/knife-solo/resources/patch_cookbooks/chef-solo-search/recipes/default.rb
-lib/knife-solo/resources/patch_cookbooks/chef-solo-search/tests/Gemfile
+lib/knife-solo/resources/patch_cookbooks/chef-solo-search/tests/gemfiles/Gemfile.11
 lib/knife-solo/resources/patch_cookbooks/chef-solo-search/tests/data/data_bags/node/alpha.json
 lib/knife-solo/resources/patch_cookbooks/chef-solo-search/tests/data/data_bags/node/beta.json
 lib/knife-solo/resources/patch_cookbooks/chef-solo-search/tests/data/data_bags/node/without_json_class.json
